@@ -16,3 +16,5 @@ alert(
     subtraction result: ${subtraction},
     addition result: ${addition}`
 );
+
+console.log("New-feature");
